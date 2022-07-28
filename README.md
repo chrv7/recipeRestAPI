@@ -73,7 +73,7 @@ Status code: `204 (No Content)`
 Status code: `403 (Forbidden)`
 ***
 Method: `GET`  
-Path: `api/recipe/{id}`
+Path: `api/recipe/{id}`  
 **Example:** get recipe by id = 1. Request with basic authentication; email (login): test2@some.com and password testpass2  
 Response:
 
