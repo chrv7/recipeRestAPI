@@ -1,6 +1,6 @@
 # RecipeRestAPI
 The program is a multi-user web service based on Spring Boot that allows storing, retrieving, updating, and deleting recipes. The service uses H2 database.
-The service has 2 main entity: User and Recipe. The service supports the registration process. User can update or delete only their recipes, but can view recipes added by others users.  
+and has 2 main entity: User and Recipe. The service supports the registration process. User can update or delete only their recipes, but can view recipes added by others users.  
 ### Endpoints
 * [localhost:8080/api/recipe/]() - RecipeService
 * [localhost:8080/api/register]() - UserService
